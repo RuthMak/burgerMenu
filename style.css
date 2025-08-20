@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_foodlogo.png");
+  background-image: url("https://cdn5.vectorstock.com/i/1000x1000/64/89/creative-healthy-food-lover-logo-designs-vector-31156489.jpg");
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
@@ -44,7 +44,7 @@ nav a {
 /* Content Header */
 
 .header {
-  background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
+  background-image: url("https://thumbs.dreamstime.com/b/tasty-burger-french-fries-fire-close-up-home-made-flames-137249900.jpg");
   background-position: center;
   background-size: cover;
   height: 320px;
